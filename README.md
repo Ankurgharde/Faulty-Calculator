@@ -1,6 +1,5 @@
 # Faulty-Calculator
 1) With the use of faulty calculator we can make some calculation faulty for your own purpose.  
------------------------------------------------------------------------------
 #python code:-
 First_Number=int(input('Enter an First Number:'))
 Second_Number=int(input('Enter an Second Number:'))
@@ -19,7 +18,7 @@ elif Operator==('/'):
     print('Division of Two Number is', First_Number / Second_Number)
 else:
     print("Invalid")
--------------------------------------------------------------------------------
+    
 2) In the above code,you see that only three calculation  wrong, these calculations are :-
   >> Addition of (44 + 5 )= 80, Ans is wrong (But except that problem (44 + 5), you can calculate all the "Addition" problem solve correctly.  
   >> Multiplication of (30 x 7) = 75, Ans is wrong  (But except that problem (30 x 7), you can calculate all the "Multiplication" problem solve correctly.
